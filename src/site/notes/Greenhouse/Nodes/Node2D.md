@@ -1,5 +1,5 @@
 ---
-{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-02 20:34","dg-path":"Nodes/Node2D.md","permalink":"/nodes/node2-d/","dgPassFrontmatter":true,"dg-note-properties":{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","created":"2026-04-02 13:31","modified":"2026-04-02 20:34"}}
+{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 19:21","dg-path":"Nodes/Node2D.md","permalink":"/nodes/node2-d/","dgPassFrontmatter":true,"dg-note-properties":{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","created":"2026-04-02 13:31","modified":"2026-04-04 19:21"}}
 ---
 
 
@@ -9,14 +9,16 @@ _The_ 2D game object that is inherited by all 2D-related nodes. Provides every 
 
 ---
 
-## How to Add
+## Properties & Methods
 
-One or two sentences max. State exactly what comes back — the type, and any notable condition (e.g. returns `-1` if not found, returns `undefined` if empty).
+key props with types, useful methods with signatures.
 
-## Examples
+## Usage
 
-Two or three focused code snippets covering the most common use cases. Each example should be self-contained and copy-paste ready. No fluff, no "first we need to…" — just the code.
+how to add, signals to know, code examples.
 
 ## Gotchas
+
+edge cases, common mistakes.
 
 `global_position` vs `position`
