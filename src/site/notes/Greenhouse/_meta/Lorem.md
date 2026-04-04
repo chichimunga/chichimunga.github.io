@@ -1,5 +1,5 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-03 14:58","modified":"2026-04-03 21:06","dg-path":"./_meta/Lorem.md","permalink":"//meta/lorem/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-03 14:58","modified":"2026-04-03 21:06"}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-03 14:58","modified":"2026-04-03 21:06","dg-path":"_meta/Lorem.md","permalink":"/meta/lorem/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-03 14:58","modified":"2026-04-03 21:06"}}
 ---
 
 

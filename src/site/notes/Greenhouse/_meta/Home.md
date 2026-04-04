@@ -1,9 +1,9 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 11:28","modified":"2026-04-04 18:24","dg-home":true,"dg-hide":true,"dg-path":"./_meta/Home.md","permalink":"//meta/home/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 11:28","modified":"2026-04-04 18:24"}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 11:28","modified":"2026-04-04 18:24","dg-home":true,"dg-hide":true,"dg-path":"_meta/Home.md","permalink":"/meta/home/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 11:28","modified":"2026-04-04 18:24"}}
 ---
 
 
-TESTSTSTSTS
+TESTSTSTSTSs
 
 Oh, hi there 👋 My name is Mark and I'm a software engineer. I'm teaching myself indie game development and I'm using this space, known as a digital garden, as a wiki to openly share with the public. 
 
