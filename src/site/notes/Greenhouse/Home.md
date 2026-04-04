@@ -3,6 +3,7 @@
 ---
 
 
+TESTSTSTSTS
 Oh, hi there 👋 My name is Mark and I'm a software engineer. I'm teaching myself indie game development and I'm using this space, known as a digital garden, as a wiki to openly share with the public. 
 
 This site will never be finished and will always be updated as I continue on my journey. You can also find me on my [blog](https://chichimunga.com/), [Bluesky](https://bsky.app/profile/chichimunga.com), and [GitHub](https://github.com/chichimunga/chichimunga.github.io).
