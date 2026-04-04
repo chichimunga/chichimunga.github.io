@@ -1,15 +1,11 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 11:28","modified":"2026-04-04 19:13","dg-home":true,"dg-hide":true,"dg-path":"Home.md","permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 11:28","modified":"2026-04-04 19:13"}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 11:28","modified":"2026-04-04 19:16","dg-home":true,"dg-hide":true,"dg-path":"Home.md","permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 11:28","modified":"2026-04-04 19:16"}}
 ---
 
 
-Oh, hi there 👋 My name is Mark and I'm a software engineer. I'm teaching myself indie game development and I'm using this space, known as a digital garden, as a wiki to openly share with the public. 
+My name is Mark and I'm a software engineer. I'm teaching myself indie game development and I'm using this space, known as a digital garden, as a wiki to openly share with the public. Greenhouse will never be finished and will always be updated as long as I continue learning.
 
-This site will never be finished and will always be updated as I continue on my journey. You can also find me on my [blog](https://chichimunga.com/), [Bluesky](https://bsky.app/profile/chichimunga.com), and [GitHub](https://github.com/chichimunga/chichimunga.github.io).
-
-## What is a Digital Garden?
-
-A digital garden is…
+Find me on my [blog](https://chichimunga.com/), [Bluesky](https://bsky.app/profile/chichimunga.com), and [GitHub](https://github.com/chichimunga/chichimunga.github.io).
 
 ## Roadmap
 
