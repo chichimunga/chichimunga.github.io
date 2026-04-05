@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-05 16:04","tags":["🌿"],"dg-path":"Godot/Nodes/Nodes.md","permalink":"/Godot/Nodes/Nodes/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-04 21:36","modified":"2026-04-05 16:04","tags":["🌿"]}}
+{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-05 16:17","tags":["🌿"],"dg-path":"Godot/Nodes/Nodes.md","permalink":"/Godot/Nodes/Nodes/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-04 21:36","modified":"2026-04-05 16:17","tags":["🌿"]}}
 ---
 
 
@@ -29,7 +29,7 @@ The base `Node` has no visual output — use it as a **scene root**, a **script 
 
 ### Lifecycle
 
-Lifecycle callbacks to override in script:
+Callbacks to override in script:
 
 ```gdscript
 # called once when node enters the scene tree
@@ -85,7 +85,7 @@ process_mode = Node.PROCESS_MODE_DISABLED
 
 ### Tree Navigation
 
-#### Targeting Nodes in Code
+#### Targeting Nodes
 
 Several ways to reference a node in script, from simple to flexible. `$` and `%` are the most common in practice.
 
