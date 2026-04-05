@@ -45,6 +45,11 @@ body {
         width: auto !important;
     }
 
+    .toc-container {
+        max-height: 100%;
+        overflow-y: visible;
+    }
+
     .social-icons {
         align-items: flex-end;
         display: flex;
