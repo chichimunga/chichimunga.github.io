@@ -5,7 +5,7 @@
                 <div @click.stop class="notelink {{ 'active-note' if fileOrFolder.permalink === permalink}}">
                     <a data-note-icon="{{fileOrFolder.noteIcon}}" style="text-decoration: none;" class="filename" href="{{fileOrFolder.permalink}}">{{fileOrFolder.name}} </a>
                 </div>
-            {% elif fileOrFolder.isFolder%}
+            {% elif fileOrFolder.isFolder and fileOrFolderName[0] != '_' %}
                 <div class="folder inner-folder"  x-data="{isOpen: $persist(false).as({{currentPath | dump}})}" @click.stop="isOpen=!isOpen">
                     <div class="foldername-wrapper align-icon">
                     <i x-show="isOpen" style="display: none;"  data-lucide="chevron-down"></i>

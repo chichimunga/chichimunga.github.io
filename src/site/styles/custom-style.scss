@@ -28,6 +28,11 @@ body {
         --dg-graph-border-color: #ABABAB;
     }
 
+    .header-tags {
+        display: flex;
+        justify-content: end;
+    }
+
     @media (max-width: 768px) {
         li.task-list-item,
         ul.task-list {
