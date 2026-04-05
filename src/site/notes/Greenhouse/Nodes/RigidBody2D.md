@@ -1,11 +1,11 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 19:32","dg-path":"Nodes/RigidBody2D.md","permalink":"/Nodes/RigidBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 13:31","modified":"2026-04-04 19:32"}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 21:40","dg-path":"Nodes/RigidBody2D.md","permalink":"/Nodes/RigidBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 13:31","modified":"2026-04-04 21:40"}}
 ---
 
 
 here
 
-**Inheritance Chain** — Node → [[CanvasItem\|CanvasItem]] → [[Greenhouse/Nodes/Node2D\|Node2D]] → [[CollisionObject2d\|CollisionObject2d]] → [[PhysicsBody2D\|PhysicsBody2D]]
+**Inheritance Chain** — [[Greenhouse/Nodes/Node\|Node]] → [[CanvasItem\|CanvasItem]] → [[Greenhouse/Nodes/Node2D\|Node2D]] → [[CollisionObject2d\|CollisionObject2d]] → [[PhysicsBody2D\|PhysicsBody2D]]
 
 ---
 
