@@ -1,5 +1,5 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 19:30","dg-path":"Godot/Nodes/Area2D.md","permalink":"/Godot/Nodes/Area2D/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 13:31","modified":"2026-04-04 19:30"}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 19:30","dg-path":"Godot/Nodes/Area2D.md","permalink":"/Godot/Nodes/Area2D/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 13:31","modified":"2026-04-04 19:30"}}
 ---
 
 
