@@ -5,13 +5,29 @@ body {
     --tag-color-hover: #{$hover-accent-color};
     --text-accent-hover: #{$hover-accent-color};
 
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        &.referred {
+            border: 2px dashed orangered;
+        }
+    }
+
     h1 {
         font-size: 30px !important;
         margin-bottom: 26px !important;
     }
 
-     h2 {
+    h2 {
         text-transform: uppercase;
+    }
+
+    h3 {
+        margin-top: 54px !important;
+        text-align: left;
     }
 
     code[class*="language-"],
