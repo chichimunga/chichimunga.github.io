@@ -1,44 +1,54 @@
+$hover-accent-color: orangered;
+
 body {
+    --link-external-color-hover: #{$hover-accent-color};
+    --tag-color-hover: #{$hover-accent-color};
+    --text-accent-hover: #{$hover-accent-color};
+
+    &.theme-dark {
+        --dg-graph-border-color: #CCC;
+        --text-accent: #CCC;
+        --text-accent-hover: $hover-accent-color;
+    }
+
+    &.theme-light {
+        --dg-graph-border-color: #ABABAB;
+    }
 
     @media (max-width: 768px) {
-        ul.task-list,
-        li.task-list-item {
+        li.task-list-item,
+        ul.task-list {
             margin-inline-start: 0;
         }
     }
 
-    .theme-toggle img {
-    width: 36px;
-    height: 36px;
-}
-
-.search-toggle-row {
-    .search-button {
-        width: auto !important;
+    .search-toggle-row .search-button {
         flex: 1;
+        width: auto !important;
     }
-}
 
-.theme-dark .theme-toggle img {
-    filter: invert(1);
-}
-
-.social-icons {
+    .social-icons {
+        align-items: flex-end;
         display: flex;
         flex-direction: column;
-        align-items: flex-end;
         gap: 12px;
         padding: 16px 8px 8px;
 
         a {
-            display: flex;
             align-items: center;
+            display: flex;
             gap: 8px;
             opacity: 0.6;
             transition: opacity 0.2s;
 
             &:hover {
+                color: $hover-accent-color;
                 opacity: 1;
+                text-decoration-color: $hover-accent-color;
+
+                img {
+                    filter: brightness(0) saturate(100%) invert(34%) sepia(99%) saturate(2000%) hue-rotate(4deg) brightness(103%);
+                }
             }
 
             span {
@@ -47,9 +57,37 @@ body {
         }
 
         img {
-            width: 20px;
-            height: 20px;
             filter: invert(0);
+            height: 20px;
+            width: 20px;
         }
+    }
+
+    .theme-toggle img {
+        height: 36px;
+        width: 36px;
+    }
+}
+
+.theme-dark .social-icons img {
+    filter: invert(1);
+}
+
+.cm-s-obsidian a:hover,
+.backlink-card a:hover,
+.external-link:hover,
+.notelink a:hover,
+.toc a:hover {
+    color: $hover-accent-color !important;
+    text-decoration: underline solid $hover-accent-color !important;
+}
+
+@media (max-width: 999px) {
+    .filetree-wrapper {
+        z-index: 100;
+    }
+
+    .fullpage-overlay {
+        z-index: 99;
     }
 }
