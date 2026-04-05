@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"dg-publish":true,"dg-hide":true,"created":"2026-04-04 21:36","modified":"2026-04-05 15:43","tags":["🌿"],"dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","hide":true,"dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-04 21:36","modified":"2026-04-05 15:43","tags":["🌿"]}}
+{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-05 15:57","tags":["🌿"],"dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-04 21:36","modified":"2026-04-05 15:57","tags":["🌿"]}}
 ---
 
 
@@ -27,7 +27,9 @@ The base `Node` has no visual output — use it as a **scene root**, a **script 
 - Attaching a script that manages child nodes (e.g. a `GameManager`)
 - Grouping nodes logically without affecting position
 
-**Any property visible in the inspector can be set directly in a script:**
+### Updating Properties
+
+Any property visible in the inspector can be set directly in a script:
 
 ```gdscript
 # set position, rotation, and scale directly
@@ -36,7 +38,9 @@ rotation_degrees = 45
 scale = Vector2(2, 2)
 ```
 
-**Lifecycle callbacks to override in script:**
+### Lifecycle
+
+Lifecycle callbacks to override in script:
 
 ```gdscript
 # called once when node enters the scene tree
@@ -47,6 +51,25 @@ func _process(delta)
 
 # called every physics tick:      
 func _physics_process(delta):  
+```
+
+### Targeting Nodes in Code
+
+Several ways to reference a node in script, from simple to flexible. `$` and `%` are the most common in practice.
+
+```gdscript
+# $ shorthand — direct child by name
+$Logo.rotation_degrees = 90
+
+# path notation — navigate deeper into the tree
+$Sprite2D/Arm/Hand
+
+# % prefix — unique name, reachable from anywhere in the scene
+# (right-click a node in the editor → "Access as Unique Name" to enable)
+%HUDLabel.text = "Score: 0"
+
+# .. goes up one level — access a parent's data from a child script
+$"..".health
 ```
 
 ---
@@ -159,25 +182,6 @@ var hp_bar = find_child("HealthBar")
 
 # find by wildcard pattern
 var any_label = find_child("*Label*")
-```
-
-### Targeting Nodes in Code
-
-Several ways to reference a node in script, from simple to flexible. `$` and `%` are the most common in practice.
-
-```gdscript
-# $ shorthand — direct child by name
-$Logo.rotation_degrees = 90
-
-# path notation — navigate deeper into the tree
-$Sprite2D/Arm/Hand
-
-# % prefix — unique name, reachable from anywhere in the scene
-# (right-click a node in the editor → "Access as Unique Name" to enable)
-%HUDLabel.text = "Score: 0"
-
-# .. goes up one level — access a parent's data from a child script
-$"..".health
 ```
 
 ### `is_inside_tree() -> bool`
