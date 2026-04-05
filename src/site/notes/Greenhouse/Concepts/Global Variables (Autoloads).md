@@ -1,5 +1,5 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-04 22:29","modified":"2026-04-04 22:36","tags":["🌱"],"dg-path":"Concepts/Global Variables (Autoloads).md","permalink":"/Concepts/Global Variables (Autoloads)/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-04 22:29","modified":"2026-04-04 22:36","tags":["🌱"]}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-04 22:29","modified":"2026-04-04 22:44","tags":["🌱"],"dg-path":"Concepts/Global Variables (Autoloads).md","permalink":"/Concepts/Global Variables (Autoloads)/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-04 22:29","modified":"2026-04-04 22:44","tags":["🌱"]}}
 ---
 
 
@@ -24,7 +24,7 @@ In your Godot project, typically at the root level:
 
 ```js
 res://
-├── Global.gd
+├── Global.g
 ├── Main.tscn
 ├── Player.gd
 └── …

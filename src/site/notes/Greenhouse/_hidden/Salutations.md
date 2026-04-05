@@ -1,5 +1,5 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 11:28","modified":"2026-04-04 21:54","dg-home":true,"dg-hide":true,"dg-path":"_hidden/Salutations.md","permalink":"/_hidden/Salutations/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 11:28","modified":"2026-04-04 21:54"}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 11:28","modified":"2026-04-04 22:54","dg-home":true,"dg-hide":true,"dg-path":"_hidden/Salutations.md","permalink":"/_hidden/Salutations/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 11:28","modified":"2026-04-04 22:54"}}
 ---
 
 
@@ -11,14 +11,14 @@ My name is Mark and I'm a software engineer. I'm teaching myself indie game deve
 
 Find me on my [blog](https://chichimunga.com/), [Bluesky](https://bsky.app/profile/chichimunga.com), and [GitHub](https://github.com/chichimunga/chichimunga.github.io).
 
-## Roadmap
+--- 
 
-### In Progress
+## In Progress
 
 - [ ] [Complete Godot tutorial course](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q) 
 - [ ] Work on my first game ([Pong](https://github.com/chichimunga/pong-roguelike)) 
 
-### Upcoming
+## Upcoming
 
 - [ ] Upgrade my Pong game
 	- [ ] Add a visual theme

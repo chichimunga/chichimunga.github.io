@@ -1,4 +1,4 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-04 22:31","modified":"2026-04-04 22:36","tags":["🌱"],"dg-path":"Concepts/process vs physics_pgrocess.md","permalink":"/Concepts/process vs physics_pgrocess/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-04 22:31","modified":"2026-04-04 22:36","tags":["🌱"]}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-04 22:31","modified":"2026-04-04 22:37","tags":["🌱"],"dg-path":"Concepts/process vs physics_pgrocess.md","permalink":"/Concepts/process vs physics_pgrocess/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-04 22:31","modified":"2026-04-04 22:37","tags":["🌱"]}}
 ---
 
