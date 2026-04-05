@@ -1,5 +1,5 @@
 ---
-{"type":null,"dg-publish":true,"created":"2026-04-04 22:29","modified":"2026-04-05 07:39","topic":null,"subtopic":null,"tags":["🌳"],"dg-note-icon":"3","dg-path":"Concepts/Global Variables (Autoloads).md","permalink":"/Concepts/Global Variables (Autoloads)/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"type":null,"created":"2026-04-04 22:29","modified":"2026-04-05 07:39","topic":null,"subtopic":null,"tags":["🌳"]}}
+{"type":null,"dg-publish":true,"created":"2026-04-04 22:29","modified":"2026-04-05 07:42","topic":null,"subtopic":null,"tags":["🌳"],"dg-path":"Concepts/Global Variables (Autoloads).md","permalink":"/Concepts/Global Variables (Autoloads)/","dgPassFrontmatter":true,"dg-note-properties":{"type":null,"created":"2026-04-04 22:29","modified":"2026-04-05 07:42","topic":null,"subtopic":null,"tags":["🌳"]}}
 ---
 
 
