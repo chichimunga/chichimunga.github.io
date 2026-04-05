@@ -16,8 +16,16 @@ body {
         }
     }
 
+    h3,
+    h4,
+    h5,
+    h6 {
+        text-align: left;
+    }
+
     h1 {
-        font-size: 30px !important;
+        color: #475760 !important;
+        font-size: 32px !important;
         margin-bottom: 26px !important;
     }
 
@@ -26,8 +34,13 @@ body {
     }
 
     h3 {
+        font-size: 20px !important;
         margin-top: 54px !important;
-        text-align: left;
+    }
+
+    h4 {
+        font-size: 20px !important;
+        margin-top: 40px !important
     }
 
     code[class*="language-"],
@@ -106,12 +119,12 @@ body {
             transition: opacity 0.2s;
 
             &:hover {
-                color: $hover-accent-color;
+                color: black;
                 opacity: 1;
-                text-decoration-color: $hover-accent-color;
+                text-decoration-color: black;
 
                 img {
-                    filter: brightness(0) saturate(100%) invert(34%) sepia(99%) saturate(2000%) hue-rotate(4deg) brightness(103%);
+                    filter: brightness(0);
                 }
             }
 
@@ -135,6 +148,15 @@ body {
 
 .theme-dark .social-icons img {
     filter: invert(1);
+}
+
+.theme-dark .social-icons a:hover {
+    color: white;
+    text-decoration-color: white;
+
+    img {
+        filter: brightness(0) invert(1);
+    }
 }
 
 .cm-s-obsidian a:hover,
