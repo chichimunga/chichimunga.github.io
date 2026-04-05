@@ -1,18 +1,22 @@
 $hover-accent-color: orangered;
 
-h2 {
-    text-transform: uppercase;
-}
-
-code[class*="language-"],
-pre[class*="language-"] {
-    text-shadow: none;
-}
-
 body {
     --link-external-color-hover: #{$hover-accent-color};
     --tag-color-hover: #{$hover-accent-color};
     --text-accent-hover: #{$hover-accent-color};
+
+    h1 {
+        font-size: 30px !important;
+    }
+
+     h2 {
+        text-transform: uppercase;
+    }
+
+    code[class*="language-"],
+        pre[class*="language-"] {
+            text-shadow: none;
+    }
 
     &.theme-dark {
         --dg-graph-border-color: #CCC;
@@ -86,6 +90,7 @@ body {
 .backlink-card a:hover,
 .external-link:hover,
 .notelink a:hover,
+.notelink.active-note .filename:hover,
 .toc a:hover {
     color: $hover-accent-color !important;
     text-decoration: underline solid $hover-accent-color !important;
