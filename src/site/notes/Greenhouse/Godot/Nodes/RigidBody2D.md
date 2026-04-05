@@ -1,5 +1,5 @@
 ---
-{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 21:51","tags":["🌱"],"permalink":"/Greenhouse/Godot/Nodes/RigidBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 13:31","modified":"2026-04-04 21:51","tags":["🌱"]}}
+{"topic":null,"subtopic":null,"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 21:51","tags":["🌱"],"dg-path":"Godot/Nodes/RigidBody2D.md","permalink":"/Godot/Nodes/RigidBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"topic":null,"subtopic":null,"type":null,"created":"2026-04-02 13:31","modified":"2026-04-04 21:51","tags":["🌱"]}}
 ---
 
 
