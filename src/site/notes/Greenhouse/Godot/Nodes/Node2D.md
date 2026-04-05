@@ -1,5 +1,5 @@
 ---
-{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 21:41","dg-path":"Godot/Nodes/Node2D.md","permalink":"/Godot/Nodes/Node2D/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","created":"2026-04-02 13:31","modified":"2026-04-04 21:41"}}
+{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-04 21:41","dg-path":"Godot/Nodes/Node2D.md","permalink":"/Godot/Nodes/Node2D/","dgPassFrontmatter":true,"dg-note-properties":{"topic":"game dev","subtopic":["programming"],"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","created":"2026-04-02 13:31","modified":"2026-04-04 21:41"}}
 ---
 
 
