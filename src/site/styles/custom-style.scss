@@ -11,6 +11,8 @@ body {
     h4,
     h5,
     h6 {
+        scroll-margin-top: calc(var(--dg-navbar-height) + 16px);
+
         &.referred {
             border: 2px dashed orangered;
         }
