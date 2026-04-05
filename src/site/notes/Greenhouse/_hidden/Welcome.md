@@ -7,7 +7,7 @@ My name is Mark and I'm a software engineer. I'm teaching myself indie game deve
 
 - #🌱  — rough idea, just planted, barely formed
 - #🌿  — developing, some structure but incomplete
-- #🌳  — mature, well-developed, stable
+- #🌳  — mature, well-developed, stable
 
 Find me on my [blog](https://chichimunga.com/), [Bluesky](https://bsky.app/profile/chichimunga.com), and [GitHub](https://github.com/chichimunga/chichimunga.github.io).
 
