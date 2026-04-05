@@ -1,5 +1,5 @@
 ---
-{"type":["hotkeys"],"dg-publish":true,"created":"2026-04-05 13:16","modified":"2026-04-05 13:24","tags":null,"dg-path":"Godot/Hotkeys.md","permalink":"/Godot/Hotkeys/","dgPassFrontmatter":true,"dg-note-properties":{"type":["hotkeys"],"created":"2026-04-05 13:16","modified":"2026-04-05 13:24","tags":null}}
+{"type":["hotkeys"],"dg-publish":true,"created":"2026-04-05 13:16","modified":"2026-04-05 14:08","tags":[],"dg-path":"Godot/Hotkeys.md","permalink":"/Godot/Hotkeys/","dgPassFrontmatter":true,"dg-note-properties":{"type":["hotkeys"],"created":"2026-04-05 13:16","modified":"2026-04-05 14:08","tags":[]}}
 ---
 
 
@@ -85,4 +85,5 @@
 |Step into|F11|
 |Continue|F12|
 |Toggle breakpoint|F9|
+
 #🌳 
