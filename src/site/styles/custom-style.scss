@@ -90,4 +90,16 @@ body {
     .fullpage-overlay {
         z-index: 99;
     }
+
+    .sidebar-transition {
+        transition: transform 0.04s ease;
+    }
+
+    .sidebar-offscreen {
+        transform: translateX(-100%);
+    }
+
+    .sidebar-onscreen {
+        transform: translateX(0);
+    }
 }
