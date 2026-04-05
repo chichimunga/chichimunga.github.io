@@ -1,3 +1,9 @@
 body {
 
+    @media (max-width: 768px) {
+        ul.task-list,
+        li.task-list-item {
+            margin-inline-start: 0;
+        }
+    }
 }
