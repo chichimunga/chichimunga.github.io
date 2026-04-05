@@ -7,7 +7,23 @@ body {
         }
     }
 
-    .social-icons {
+    .theme-toggle img {
+    width: 36px;
+    height: 36px;
+}
+
+.search-toggle-row {
+    .search-button {
+        width: auto !important;
+        flex: 1;
+    }
+}
+
+.theme-dark .theme-toggle img {
+    filter: invert(1);
+}
+
+.social-icons {
         display: flex;
         flex-direction: column;
         align-items: flex-end;
