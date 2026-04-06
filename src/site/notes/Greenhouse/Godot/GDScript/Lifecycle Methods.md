@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"dg-publish":true,"created":"2026-04-06 12:52","modified":"2026-04-06 12:54","tags":["🌱"],"dg-path":"Godot/GDScript/Lifecycle Methods.md","permalink":"/Godot/GDScript/Lifecycle Methods/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-06 12:52","modified":"2026-04-06 12:54","tags":["🌱"]}}
+{"type":["documentation"],"dg-publish":true,"created":"2026-04-06 12:52","modified":"2026-04-06 13:11","tags":["🌱"],"dg-path":"Godot/GDScript/Lifecycle Methods.md","permalink":"/Godot/GDScript/Lifecycle Methods/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-06 12:52","modified":"2026-04-06 13:11","tags":["🌱"]}}
 ---
 
 
@@ -16,8 +16,6 @@ func _process(delta):
     # Called every frame — use for movement and game logic
     pass
 ```
-
-> **Tip:** `Cmd`/`Ctrl` + click any class or method in the editor to open its docs.
 
 ## Delta Time
 
