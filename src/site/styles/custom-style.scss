@@ -45,8 +45,13 @@ body {
     }
 
     code[class*="language-"],
-        pre[class*="language-"] {
-            text-shadow: none;
+    pre[class*="language-"] {
+        text-shadow: none;
+    }
+
+    &.theme-dark {
+        --text-accent: #CCC;
+        --text-accent-hover: $hover-accent-color;
     }
 
     .header-tags {
