@@ -26,7 +26,6 @@ body {
     }
 
     h1 {
-        color: #475760 !important;
         font-size: 32px !important;
         margin-bottom: 26px !important;
     }
@@ -42,22 +41,12 @@ body {
 
     h4 {
         font-size: 20px !important;
-        margin-top: 40px !important
+        margin-top: 54px !important
     }
 
     code[class*="language-"],
         pre[class*="language-"] {
             text-shadow: none;
-    }
-
-    &.theme-dark {
-        --dg-graph-border-color: #CCC;
-        --text-accent: #CCC;
-        --text-accent-hover: $hover-accent-color;
-    }
-
-    &.theme-light {
-        --dg-graph-border-color: #ABABAB;
     }
 
     .header-tags {
@@ -66,11 +55,16 @@ body {
         margin-top: 16px;
     }
 
-    @media (max-width: 768px) {
-        li.task-list-item,
-        ul.task-list {
-            margin-inline-start: 0;
-        }
+    ul.task-list:not(li ul.task-list) {
+        padding-left: 0;
+    }
+
+    li.task-list-item {
+        margin-inline-start: 0 !important;
+    }
+
+    li ul.task-list {
+        padding-left: 32px;
     }
 
     @media (max-width: 999px) {
