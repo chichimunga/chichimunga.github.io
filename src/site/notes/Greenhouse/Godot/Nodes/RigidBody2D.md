@@ -5,7 +5,7 @@
 
 here
 
-**Inheritance Chain** — [[Greenhouse/Godot/Nodes/Node\|Node]] → [[CanvasItem\|CanvasItem]] → [[Greenhouse/Godot/Nodes/Node2D\|Node2D]] → [[CollisionObject2d\|CollisionObject2d]] → [[PhysicsBody2D\|PhysicsBody2D]]
+**Inheritance Chain** — [[Greenhouse/Godot/Nodes/_Node\|_Node]] → [[CanvasItem\|CanvasItem]] → [[Greenhouse/Godot/Nodes/Node2D\|Node2D]] → [[CollisionObject2d\|CollisionObject2d]] → [[PhysicsBody2D\|PhysicsBody2D]]
 
 ---
 
