@@ -1,5 +1,5 @@
 ---
-{"type":["book"],"dg-publish":true,"created":"2026-01-15 08:57","modified":"2026-04-06 21:27","topic":"personal","subtopic":null,"tags":["hobbies"],"dg-path":"Media/Books/How to Win Friends and Influence People.md","permalink":"/Media/Books/How to Win Friends and Influence People/","dgPassFrontmatter":true,"dg-note-properties":{"type":["book"],"created":"2026-01-15 08:57","modified":"2026-04-06 21:27","topic":"personal","subtopic":null,"tags":["hobbies"]}}
+{"type":["book"],"dg-publish":true,"created":"2026-01-15 08:57","modified":"2026-04-06 21:39","topic":"personal","tags":["hobbies"],"dg-path":"Media/Books/How to Win Friends and Influence People.md","permalink":"/Media/Books/How to Win Friends and Influence People/","dgPassFrontmatter":true,"dg-note-properties":{"type":["book"],"created":"2026-01-15 08:57","modified":"2026-04-06 21:39","topic":"personal","tags":["hobbies"]}}
 ---
 
 

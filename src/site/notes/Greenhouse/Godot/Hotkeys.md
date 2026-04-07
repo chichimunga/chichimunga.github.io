@@ -1,5 +1,5 @@
 ---
-{"type":["hotkeys"],"dg-publish":true,"created":"2026-04-05 13:16","modified":"2026-04-05 14:14","tags":["🌳"],"dg-path":"Godot/Hotkeys.md","permalink":"/Godot/Hotkeys/","dgPassFrontmatter":true,"dg-note-properties":{"type":["hotkeys"],"created":"2026-04-05 13:16","modified":"2026-04-05 14:14","tags":["🌳"]}}
+{"type":["cheatsheet"],"dg-publish":true,"created":"2026-04-05 13:16","modified":"2026-04-07 09:58","tags":["🌳"],"dg-path":"Godot/Hotkeys.md","permalink":"/Godot/Hotkeys/","dgPassFrontmatter":true,"dg-note-properties":{"type":["cheatsheet"],"created":"2026-04-05 13:16","modified":"2026-04-07 09:58","tags":["🌳"]}}
 ---
 
 
