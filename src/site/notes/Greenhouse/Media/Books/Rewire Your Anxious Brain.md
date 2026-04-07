@@ -1,5 +1,5 @@
 ---
-{"type":["book"],"tags":[],"dg-publish":true,"created":"2026-01-18 16:53","modified":"2026-04-07 16:40","dg-path":"Media/Books/Rewire Your Anxious Brain.md","permalink":"/Media/Books/Rewire Your Anxious Brain/","dgPassFrontmatter":true,"dg-note-properties":{"type":["book"],"tags":[],"created":"2026-01-18 16:53","modified":"2026-04-07 16:40"}}
+{"type":["book"],"tags":[],"dg-publish":true,"created":"2026-01-18 16:53","modified":"2026-04-07 16:41","dg-path":"Media/Books/Rewire Your Anxious Brain.md","permalink":"/Media/Books/Rewire Your Anxious Brain/","dgPassFrontmatter":true,"dg-note-properties":{"type":["book"],"tags":[],"created":"2026-01-18 16:53","modified":"2026-04-07 16:41"}}
 ---
 
 
