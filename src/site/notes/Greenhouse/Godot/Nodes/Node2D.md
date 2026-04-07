@@ -3,7 +3,7 @@
 ---
 
 
-**Inheritance Chain** — → [CanvasItem](CanvasItem)
+**Inheritance Chain** — [[Greenhouse/Godot/Nodes/Node\|Node]] → [CanvasItem](CanvasItem)
 
 _The_ 2D game object that is inherited by all 2D-related nodes. Provides every 2D node with a transform — `position`, `rotation`, and `scale` — in a 2D space.
 
