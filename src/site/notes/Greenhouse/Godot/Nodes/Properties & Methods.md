@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-07 16:13","modified":"2026-04-07 16:23","tags":["🌿"],"dg-path":"Godot/Nodes/Properties & Methods.md","permalink":"/Godot/Nodes/Properties & Methods/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-07 16:13","modified":"2026-04-07 16:23","tags":["🌿"]}}
+{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-07 16:13","modified":"2026-04-07 16:24","tags":["🌿"],"dg-path":"Godot/Nodes/Properties & Methods.md","permalink":"/Godot/Nodes/Properties & Methods/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-07 16:13","modified":"2026-04-07 16:24","tags":["🌿"]}}
 ---
 
 
