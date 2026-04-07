@@ -1,5 +1,5 @@
 ---
-{"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-06 13:12","topic":null,"subtopic":null,"tags":["🌱"],"dg-path":"Godot/Nodes/RigidBody2D.md","permalink":"/Godot/Nodes/RigidBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":null,"created":"2026-04-02 13:31","modified":"2026-04-06 13:12","topic":null,"subtopic":null,"tags":["🌱"]}}
+{"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 16:28","topic":null,"subtopic":null,"tags":["🌱"],"dg-path":"Godot/Nodes/RigidBody2D.md","permalink":"/Godot/Nodes/RigidBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":null,"created":"2026-04-02 13:31","modified":"2026-04-07 16:28","topic":null,"subtopic":null,"tags":["🌱"]}}
 ---
 
 

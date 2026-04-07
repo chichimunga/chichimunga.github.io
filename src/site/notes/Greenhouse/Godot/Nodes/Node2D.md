@@ -1,5 +1,5 @@
 ---
-{"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 16:20","dg-path":"Godot/Nodes/Node2D.md","permalink":"/Godot/Nodes/Node2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","created":"2026-04-02 13:31","modified":"2026-04-07 16:20"}}
+{"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 16:28","dg-path":"Godot/Nodes/Node2D.md","permalink":"/Godot/Nodes/Node2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","created":"2026-04-02 13:31","modified":"2026-04-07 16:28"}}
 ---
 
 
