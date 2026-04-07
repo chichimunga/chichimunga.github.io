@@ -5,9 +5,9 @@
 
 **Inheritance Chain** — [[Greenhouse/Godot/Nodes/Node\|Node]] → [[CanvasItem\|CanvasItem]] → [[Greenhouse/Godot/Nodes/Node2D\|Node2D]] → [[CollisionObject2D\|CollisionObject2D]] → [[PhysicsBody2D\|PhysicsBody2D]]
 
-The standard node for player-controlled characters.
+The standard node for player-controlled characters. Gives you full control over movement — unlike [[Greenhouse/Godot/Nodes/RigidBody2D\|RigidBody2D]], physics are not applied automatically.
 
---- Gives you full control over movement — unlike [[Greenhouse/Godot/Nodes/RigidBody2D\|RigidBody2D]], physics are not applied automatically.
+---
 
 ## Usage
 
