@@ -44,20 +44,3 @@ Vector2.DOWN   # (0, 1)
 Vector2.LEFT   # (-1, 0)
 Vector2.RIGHT  # (1, 0)
 ```
-
----
-
-## Player Input
-
-Setup: **Project → Project Settings → Input Map** → create actions (e.g. `left`, `right`, `up`, `down`) and assign keys.
-
-```gdscript
-# Check if an action is currently held
-if Input.is_action_pressed("left"):
-    pass
-
-# Top-down movement — returns a normalized Vector2 from 4 directional actions
-var direction = Input.get_vector("left", "right", "up", "down")
-```
-
----
