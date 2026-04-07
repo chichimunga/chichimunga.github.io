@@ -1,11 +1,9 @@
 ---
-{"type":null,"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-05 11:44","topic":null,"subtopic":null,"dg-path":"Godot/Nodes/Area2D.md","permalink":"/Godot/Nodes/Area2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":null,"created":"2026-04-02 13:31","modified":"2026-04-05 11:44","topic":null,"subtopic":null}}
+{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 16:40","dg-path":"Godot/Nodes/Area2D.md","permalink":"/Godot/Nodes/Area2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-02 13:31","modified":"2026-04-07 16:40"}}
 ---
 
 
-Esse culpa nostrud consectetur et cillum eiusmod tempor labore culpa exercitation exercitation eu. Quis fugiat proident laboris ipsum consequat veniam aliquip velit. Dolore deserunt laboris aliquip voluptate ullamco id aliquip. Reprehenderit consectetur est reprehenderit do commodo consequat fugiat culpa nulla exercitation amet veniam anim. Laboris proident pariatur adipisicing duis non exercitation cupidatat adipisicing officia. Mollit elit duis non nostrud quis eu exercitation minim.
-
-**Inheritance Chain** — Node → CanvasItem → [[Greenhouse/Godot/Nodes/Node2D\|Node2D]]
+**Inheritance Chain** — Node → CanvasItem → [Node2D](Node2D)
 
 ---
 

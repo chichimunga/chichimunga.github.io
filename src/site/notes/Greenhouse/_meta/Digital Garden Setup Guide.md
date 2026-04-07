@@ -1,5 +1,5 @@
 ---
-{"type":null,"dg-publish":true,"dg-hide":true,"created":"2026-04-04 18:23","modified":"2026-04-05 11:45","topic":null,"subtopic":null,"tags":[1,2,3,4,5,6,7],"dg-path":"/setup","permalink":"//setup/","hide":true,"dgPassFrontmatter":true,"dg-note-properties":{"type":null,"created":"2026-04-04 18:23","modified":"2026-04-05 11:45","topic":null,"subtopic":null,"tags":[1,2,3,4,5,6,7]}}
+{"type":["documentation"],"tags":[],"dg-publish":true,"dg-hide":true,"created":"2026-04-04 18:23","modified":"2026-04-07 16:39","dg-path":"/setup","permalink":"//setup/","hide":true,"dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":[],"created":"2026-04-04 18:23","modified":"2026-04-07 16:39"}}
 ---
 
 

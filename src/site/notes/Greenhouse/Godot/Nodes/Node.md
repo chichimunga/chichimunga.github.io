@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-07 16:31","tags":["🌿"],"dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-04 21:36","modified":"2026-04-07 16:31","tags":["🌿"]}}
+{"type":["documentation"],"tags":["🌿"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-07 16:39","dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌿"],"created":"2026-04-04 21:36","modified":"2026-04-07 16:39"}}
 ---
 
 
@@ -30,19 +30,7 @@ $Logo.rotation_degrees = 90
 $Sprite2D/Arm/Hand
 ```
 
-### `get_node(path: NodePath) -> Node`
-
-Navigates the scene tree by path. `$Sprite2D` is shorthand. Use for accessing known siblings or children.
-
-```gdscript
-# get a child by name
-var sprite = get_node("Sprite2D")
-
-# shorthand with $
-var sprite = $Sprite2D
-```
-
-### `get_children() -> Array[Node]`
+## `get_children() -> Array[Node]`
 
 Returns all direct children as an array. Use to loop over children dynamically.
 

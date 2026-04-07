@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"dg-publish":true,"created":"2026-04-06 12:52","modified":"2026-04-06 13:11","tags":["🌱"],"dg-path":"Godot/GDScript/Lifecycle Methods.md","permalink":"/Godot/GDScript/Lifecycle Methods/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-06 12:52","modified":"2026-04-06 13:11","tags":["🌱"]}}
+{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-06 12:52","modified":"2026-04-07 16:40","dg-path":"Godot/GDScript/Lifecycle Methods.md","permalink":"/Godot/GDScript/Lifecycle Methods/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-06 12:52","modified":"2026-04-07 16:40"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"type":null,"dg-publish":true,"dg-hide":true,"created":"2026-04-03 14:58","modified":"2026-04-05 11:45","topic":null,"subtopic":null,"dg-path":"/lorem","permalink":"//lorem/","hide":true,"dgPassFrontmatter":true,"dg-note-properties":{"type":null,"created":"2026-04-03 14:58","modified":"2026-04-05 11:45","topic":null,"subtopic":null}}
+{"type":["cheatsheet"],"tags":[],"dg-publish":true,"dg-hide":true,"created":"2026-04-03 14:58","modified":"2026-04-07 16:40","dg-path":"/lorem","permalink":"//lorem/","hide":true,"dgPassFrontmatter":true,"dg-note-properties":{"type":["cheatsheet"],"tags":[],"created":"2026-04-03 14:58","modified":"2026-04-07 16:40"}}
 ---
 
 

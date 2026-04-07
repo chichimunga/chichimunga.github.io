@@ -1,11 +1,11 @@
 ---
-{"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 16:28","dg-path":"Godot/Nodes/Node2D.md","permalink":"/Godot/Nodes/Node2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":null,"source":"https://docs.godotengine.org/en/stable/classes/class_node2d.html","created":"2026-04-02 13:31","modified":"2026-04-07 16:28"}}
+{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 16:40","dg-path":"Godot/Nodes/Node2D.md","permalink":"/Godot/Nodes/Node2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-02 13:31","modified":"2026-04-07 16:40"}}
 ---
 
 
-_The_ 2D game object that is inherited by all 2D-related nodes. Provides every 2D node with a transform — `position`, `rotation`, and `scale` — in a 2D space.
+**Inheritance Chain** — [Node](Node) → [CanvasItem](CanvasItem)
 
-**Inheritance Chain** — [[Greenhouse/Godot/Nodes/Node\|Node]] → [[CanvasItem\|CanvasItem]]
+_The_ 2D game object that is inherited by all 2D-related nodes. Provides every 2D node with a transform — `position`, `rotation`, and `scale` — in a 2D space.
 
 ---
 
