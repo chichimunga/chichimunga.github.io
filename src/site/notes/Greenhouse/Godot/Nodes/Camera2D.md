@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-07 17:03","modified":"2026-04-07 17:04","dg-path":"Godot/Nodes/Camera2D.md","permalink":"/Godot/Nodes/Camera2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-07 17:03","modified":"2026-04-07 17:04"}}
+{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-07 17:03","modified":"2026-04-07 19:04","dg-path":"Godot/Nodes/Camera2D.md","permalink":"/Godot/Nodes/Camera2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-07 17:03","modified":"2026-04-07 19:04"}}
 ---
 
 
