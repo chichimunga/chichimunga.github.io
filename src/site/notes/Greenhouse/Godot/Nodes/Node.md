@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"tags":["🌿"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-07 16:51","dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌿"],"created":"2026-04-04 21:36","modified":"2026-04-07 16:51"}}
+{"type":["documentation"],"tags":["🌿"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-07 17:04","dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌿"],"created":"2026-04-04 21:36","modified":"2026-04-07 17:04"}}
 ---
 
 

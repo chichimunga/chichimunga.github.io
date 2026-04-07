@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-07","dg-path":"Godot/Concepts/Instancing Scenes.md","permalink":"/Godot/Concepts/Instancing Scenes/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-07"}}
+{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-07 17:00","modified":"2026-04-07 17:04","dg-path":"Godot/Concepts/Instancing Scenes.md","permalink":"/Godot/Concepts/Instancing Scenes/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-07 17:00","modified":"2026-04-07 17:04"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-07","dg-path":"Godot/Concepts/Timers.md","permalink":"/Godot/Concepts/Timers/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-07"}}
+{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-07 16:59","modified":"2026-04-07 17:04","dg-path":"Godot/Concepts/Timers.md","permalink":"/Godot/Concepts/Timers/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-07 16:59","modified":"2026-04-07 17:04"}}
 ---
 
 

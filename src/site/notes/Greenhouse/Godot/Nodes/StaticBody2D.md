@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 16:52","dg-path":"Godot/Nodes/StaticBody2D.md","permalink":"/Godot/Nodes/StaticBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-02 13:31","modified":"2026-04-07 16:52"}}
+{"type":["documentation"],"tags":["🌱"],"dg-publish":true,"created":"2026-04-02 13:31","modified":"2026-04-07 17:04","dg-path":"Godot/Nodes/StaticBody2D.md","permalink":"/Godot/Nodes/StaticBody2D/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"tags":["🌱"],"created":"2026-04-02 13:31","modified":"2026-04-07 17:04"}}
 ---
 
 
