@@ -1,5 +1,5 @@
 ---
-{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-07 16:28","tags":["🌿"],"dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-04 21:36","modified":"2026-04-07 16:28","tags":["🌿"]}}
+{"type":["documentation"],"dg-publish":true,"dg-hide":false,"created":"2026-04-04 21:36","modified":"2026-04-07 16:31","tags":["🌿"],"dg-path":"Godot/Nodes/Node.md","permalink":"/Godot/Nodes/Node/","dgPassFrontmatter":true,"dg-note-properties":{"type":["documentation"],"created":"2026-04-04 21:36","modified":"2026-04-07 16:31","tags":["🌿"]}}
 ---
 
 
@@ -15,6 +15,8 @@ Nodes are the basic building blocks in Godot. There are dozens of different node
 | 🟦   | Control nodes | UI / layout             |
 | 🟩   | 3D nodes      | 3D games                |
 | ⚙️   | General nodes | utility / cross-context |
+
+---
 
 ## Targeting Nodes
 
@@ -47,16 +49,5 @@ Returns all direct children as an array. Use to loop over children dynamically.
 ```gdscript
 # get all children of a marker container
 var laser_markers = $LaserStartPositions.get_children()
-```
 
-## Tree Lifecycle
-
-### `add_child(node: Node)`
-
-Attaches a node as a child. The most common way to spawn objects at runtime.
-
-```gdscript
-# instantiate a scene and add it to the tree
-var laser = LaserScene.instantiate()
-$Projectiles.add_child(laser)
 ```
