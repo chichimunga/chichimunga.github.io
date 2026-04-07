@@ -5,9 +5,9 @@
 
 **Inheritance Chain** — [[Greenhouse/Godot/Nodes/Node\|Node]] → [[CanvasItem\|CanvasItem]] → [[Greenhouse/Godot/Nodes/Node2D\|Node2D]]
 
-Follows a node by being its child.
+Follows a node by being its child. The camera moves with whatever node it's attached to.
 
---- The camera moves with whatever node it's attached to.
+---
 
 ## Usage
 
