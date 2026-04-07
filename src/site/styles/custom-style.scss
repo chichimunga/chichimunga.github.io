@@ -34,10 +34,6 @@ body {
         text-transform: uppercase;
     }
 
-    .markdown-rendered .table-wrapper + :is(h1, h2, h3, h4, h5, h6) {
-        margin-top: var(--heading-spacing);
-    }
-
     h3 {
         font-size: 20px !important;
         margin-top: 54px !important;
@@ -149,6 +145,10 @@ body {
         height: 36px;
         width: 36px;
     }
+}
+
+.markdown-rendered .table-wrapper + :is(h1, h2, h3, h4, h5, h6) {
+    margin-top: var(--heading-spacing);
 }
 
 .theme-dark .social-icons img {
